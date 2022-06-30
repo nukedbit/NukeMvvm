@@ -1,3 +1,7 @@
+# Notice
+
+> :warning: This is a for my own usage if one day it will useful or ready to use i will update this notice.
+
 # FreshMvvm.Maui
 
 If you're looking for .NET MAUI version of FreshMvvm, aka FreshMvvm.Maui then please visit: https://github.com/XAM-Consulting/FreshMvvm.Maui
